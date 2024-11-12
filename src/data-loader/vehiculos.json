@@ -1,0 +1,16 @@
+[
+  {
+    "patente": "ABC123",
+    "vin": "1HGCM82633A123456",
+    "cliente": 1,
+    "modelo": 1,
+    "ordenesTrabajo": [1]
+  },
+  {
+    "patente": "XYZ789",
+    "vin": "1HGCM82633A654321",
+    "cliente": 2,
+    "modelo": 2,
+    "ordenesTrabajo": [2]
+  }
+]

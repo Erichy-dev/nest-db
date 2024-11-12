@@ -1,0 +1,12 @@
+[
+  {
+    "neto": 50000, "iva": 9500, "total": 59500,
+    "ordenTrabajo": null,
+    "detalle": []
+  },
+  {
+    "neto": 100000, "iva": 19000, "total": 119000,
+    "ordenTrabajo": null,
+    "detalle": []
+  }
+]

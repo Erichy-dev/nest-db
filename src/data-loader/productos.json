@@ -1,0 +1,530 @@
+[
+  {
+    "nombre": "Aceite de motor 5W-30",
+    "categoria": "Aceites de Motor",
+    "marca": "Liqui Moly",
+    "modelo": "5W-30"
+  },
+  {
+    "nombre": "Aceite de motor 10W-40",
+    "categoria": "Aceites de Motor",
+    "marca": "Liqui Moly",
+    "modelo": "10W-40"
+  },
+  {
+    "nombre": "Aceite de motor 5W-30",
+    "categoria": "Aceites de Motor",
+    "marca": "Mobil",
+    "modelo": "5W-30"
+  },
+  {
+    "nombre": "Aceite de motor 10W-40",
+    "categoria": "Aceites de Motor",
+    "marca": "Mobil",
+    "modelo": "10W-40"
+  },
+  {
+    "nombre": "Aceite de motor Edge 0W-20",
+    "categoria": "Aceites de Motor",
+    "marca": "Castrol",
+    "modelo": "Edge 0W-20"
+  },
+  {
+    "nombre": "Aceite de motor Edge 5W-30",
+    "categoria": "Aceites de Motor",
+    "marca": "Castrol",
+    "modelo": "Edge 5W-30"
+  },
+  {
+    "nombre": "Aceite de motor Full Synthetic 5W-30",
+    "categoria": "Aceites de Motor",
+    "marca": "Mobil",
+    "modelo": "Full Synthetic 5W-30"
+  },
+  {
+    "nombre": "Aceite de motor Super Synthetic 10W-40",
+    "categoria": "Aceites de Motor",
+    "marca": "Mobil",
+    "modelo": "Super Synthetic 10W-40"
+  },
+  {
+    "nombre": "Aceite de motor Advantec Ultimate 5W-50",
+    "categoria": "Aceites de Motor",
+    "marca": "Castrol",
+    "modelo": "Advantec Ultimate 5W-50"
+  },
+  {
+    "nombre": "Aceite de motor Magnatec Stop-Start 5W-30",
+    "categoria": "Aceites de Motor",
+    "marca": "Castrol",
+    "modelo": "Magnatec Stop-Start 5W-30"
+  },
+  {
+    "nombre": "Neumático All-Terrain T/A KO2",
+    "categoria": "Neumáticos",
+    "marca": "BFGoodrich",
+    "modelo": "All-Terrain T/A KO2"
+  },
+  {
+    "nombre": "Neumático Mud-Terrain T/A KM3",
+    "categoria": "Neumáticos",
+    "marca": "BFGoodrich",
+    "modelo": "Mud-Terrain T/A KM3"
+  },
+  {
+    "nombre": "Neumático Pilot Sport 4S",
+    "categoria": "Neumáticos",
+    "marca": "Michelin",
+    "modelo": "Pilot Sport 4S"
+  },
+  {
+    "nombre": "Neumático Primacy 4",
+    "categoria": "Neumáticos",
+    "marca": "Michelin",
+    "modelo": "Primacy 4"
+  },
+  {
+    "nombre": "Neumático All-Season T/A KO2",
+    "categoria": "Neumáticos",
+    "marca": "BFGoodrich",
+    "modelo": "All-Season T/A KO2"
+  },
+  {
+    "nombre": "Neumático Winter-Sport 4X4",
+    "categoria": "Neumáticos",
+    "marca": "BFGoodrich",
+    "modelo": "Winter-Sport 4X4"
+  },
+  {
+    "nombre": "Neumático Pilot Alpin PA4",
+    "categoria": "Neumáticos",
+    "marca": "Michelin",
+    "modelo": "Pilot Alpin PA4"
+  },
+  {
+    "nombre": "Neumático Primacy MXM4",
+    "categoria": "Neumáticos",
+    "marca": "Michelin",
+    "modelo": "Primacy MXM4"
+  },
+  {
+    "nombre": "Filtro de Aceite",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Aceite"
+  },
+  {
+    "nombre": "Filtro de Aire",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Aire"
+  },
+  {
+    "nombre": "Filtro de Combustible",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Combustible"
+  },
+  {
+    "nombre": "Filtro de Cabina",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Cabina"
+  },
+  {
+    "nombre": "Filtro de Aceite Premium",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Aceite Premium"
+  },
+  {
+    "nombre": "Filtro de Aire Plus",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Aire Plus"
+  },
+  {
+    "nombre": "Filtro de Combustible High-Flow",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Combustible High-Flow"
+  },
+  {
+    "nombre": "Filtro de Cabina Ultra",
+    "categoria": "Filtros",
+    "marca": "Bosch",
+    "modelo": "Filtro de Cabina Ultra"
+  },
+  {
+    "nombre": "Bujía Iridium IX",
+    "categoria": "Repuestos de Motor",
+    "marca": "NGK",
+    "modelo": "Bujía Iridium IX"
+  },
+  {
+    "nombre": "Bujía Laser Iridium",
+    "categoria": "Repuestos de Motor",
+    "marca": "NGK",
+    "modelo": "Bujía Laser Iridium"
+  },
+  {
+    "nombre": "Bujía G-Power Platinum",
+    "categoria": "Repuestos de Motor",
+    "marca": "NGK",
+    "modelo": "Bujía G-Power Platinum"
+  },
+  {
+    "nombre": "Bujía V-Power",
+    "categoria": "Repuestos de Motor",
+    "marca": "NGK",
+    "modelo": "Bujía V-Power"
+  },
+  {
+    "nombre": "Batería AGM 70Ah",
+    "categoria": "Baterías",
+    "marca": "Exide",
+    "modelo": "Batería AGM 70Ah"
+  },
+  {
+    "nombre": "Batería AGM 80Ah",
+    "categoria": "Baterías",
+    "marca": "Exide",
+    "modelo": "Batería AGM 80Ah"
+  },
+  {
+    "nombre": "Batería RedTop 34",
+    "categoria": "Baterías",
+    "marca": "Optima",
+    "modelo": "Batería RedTop 34"
+  },
+  {
+    "nombre": "Batería YellowTop D34",
+    "categoria": "Baterías",
+    "marca": "Optima",
+    "modelo": "Batería YellowTop D34"
+  },
+  {
+    "nombre": "Batería Gel 60Ah",
+    "categoria": "Baterías",
+    "marca": "Exide",
+    "modelo": "Batería Gel 60Ah"
+  },
+  {
+    "nombre": "Batería Gel 75Ah",
+    "categoria": "Baterías",
+    "marca": "Exide",
+    "modelo": "Batería Gel 75Ah"
+  },
+  {
+    "nombre": "Batería BlueTop",
+    "categoria": "Baterías",
+    "marca": "Optima",
+    "modelo": "Batería BlueTop"
+  },
+  {
+    "nombre": "Batería BlueTop D34M",
+    "categoria": "Baterías",
+    "marca": "Optima",
+    "modelo": "Batería BlueTop D34M"
+  },
+  {
+    "nombre": "Pastillas de Freno HP2000",
+    "categoria": "Frenos",
+    "marca": "Brembo",
+    "modelo": "Pastillas de Freno HP2000"
+  },
+  {
+    "nombre": "Pastillas de Freno Xtra",
+    "categoria": "Frenos",
+    "marca": "Brembo",
+    "modelo": "Pastillas de Freno Xtra"
+  },
+  {
+    "nombre": "Pastillas de Freno Sport",
+    "categoria": "Frenos",
+    "marca": "Brembo",
+    "modelo": "Pastillas de Freno Sport"
+  },
+  {
+    "nombre": "Pastillas de Freno Street",
+    "categoria": "Frenos",
+    "marca": "Brembo",
+    "modelo": "Pastillas de Freno Street"
+  },
+  {
+    "nombre": "Amortiguador Reflex",
+    "categoria": "Suspensión",
+    "marca": "Monroe",
+    "modelo": "Amortiguador Reflex"
+  },
+  {
+    "nombre": "Amortiguador OESpectrum",
+    "categoria": "Suspensión",
+    "marca": "Monroe",
+    "modelo": "Amortiguador OESpectrum"
+  },
+  {
+    "nombre": "Amortiguador Excel-G",
+    "categoria": "Suspensión",
+    "marca": "KYB",
+    "modelo": "Amortiguador Excel-G"
+  },
+  {
+    "nombre": "Amortiguador Gas-a-Just",
+    "categoria": "Suspensión",
+    "marca": "KYB",
+    "modelo": "Amortiguador Gas-a-Just"
+  },
+  {
+    "nombre": "Amortiguador Quick-Strut",
+    "categoria": "Suspensión",
+    "marca": "Monroe",
+    "modelo": "Amortiguador Quick-Strut"
+  },
+  {
+    "nombre": "Amortiguador Monro-Matic",
+    "categoria": "Suspensión",
+    "marca": "Monroe",
+    "modelo": "Amortiguador Monro-Matic"
+  },
+  {
+    "nombre": "Amortiguador Ultra SR",
+    "categoria": "Suspensión",
+    "marca": "KYB",
+    "modelo": "Amortiguador Ultra SR"
+  },
+  {
+    "nombre": "Amortiguador AGX",
+    "categoria": "Suspensión",
+    "marca": "KYB",
+    "modelo": "Amortiguador AGX"
+  },
+  {
+    "nombre": "Lámpara LED",
+    "categoria": "Luces",
+    "marca": "Philips",
+    "modelo": "Lámpara LED"
+  },
+  {
+    "nombre": "Lámpara Halógena",
+    "categoria": "Luces",
+    "marca": "Philips",
+    "modelo": "Lámpara Halógena"
+  },
+  {
+    "nombre": "Lámpara HID",
+    "categoria": "Luces",
+    "marca": "Philips",
+    "modelo": "Lámpara HID"
+  },
+  {
+    "nombre": "Lámpara Xenón",
+    "categoria": "Luces",
+    "marca": "Philips",
+    "modelo": "Lámpara Xenón"
+  },
+  {
+    "nombre": "Lámpara LED",
+    "categoria": "Luces",
+    "marca": "Osram",
+    "modelo": "Lámpara LED"
+  },
+  {
+    "nombre": "Lámpara Halógena",
+    "categoria": "Luces",
+    "marca": "Osram",
+    "modelo": "Lámpara Halógena"
+  },
+  {
+    "nombre": "Lámpara HID",
+    "categoria": "Luces",
+    "marca": "Osram",
+    "modelo": "Lámpara HID"
+  },
+  {
+    "nombre": "Lámpara Xenón",
+    "categoria": "Luces",
+    "marca": "Osram",
+    "modelo": "Lámpara Xenón"
+  },
+  {
+    "nombre": "Portaequipajes",
+    "categoria": "Accesorios",
+    "marca": "Thule",
+    "modelo": "Portaequipajes"
+  },
+  {
+    "nombre": "Portabicicletas",
+    "categoria": "Accesorios",
+    "marca": "Thule",
+    "modelo": "Portabicicletas"
+  },
+  {
+    "nombre": "Portaesquís",
+    "categoria": "Accesorios",
+    "marca": "Thule",
+    "modelo": "Portaesquís"
+  },
+  {
+    "nombre": "Portakayaks",
+    "categoria": "Accesorios",
+    "marca": "Thule",
+    "modelo": "Portakayaks"
+  },
+  {
+    "nombre": "Parachoques",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "ARB",
+    "modelo": "Parachoques"
+  },
+  {
+    "nombre": "Defensa delantera",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "ARB",
+    "modelo": "Defensa delantera"
+  },
+  {
+    "nombre": "Defensa trasera",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "ARB",
+    "modelo": "Defensa trasera"
+  },
+  {
+    "nombre": "Winch",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "Warn",
+    "modelo": "Winch"
+  },
+  {
+    "nombre": "Cabrestante eléctrico",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "Warn",
+    "modelo": "Cabrestante eléctrico"
+  },
+  {
+    "nombre": "Cabrestante hidráulico",
+    "categoria": "Repuestos y Accesorios Offroad y Overland",
+    "marca": "Warn",
+    "modelo": "Cabrestante hidráulico"
+  },
+  {
+    "nombre": "Tienda de campaña de techo",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Tienda de campaña de techo"
+  },
+  {
+    "nombre": "Sacos de dormir",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Sacos de dormir"
+  },
+  {
+    "nombre": "Esterillas para dormir",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Esterillas para dormir"
+  },
+  {
+    "nombre": "Sillas plegables",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Sillas plegables"
+  },
+  {
+    "nombre": "Mesa plegable",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Mesa plegable"
+  },
+  {
+    "nombre": "Cocina portátil",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Cocina portátil"
+  },
+  {
+    "nombre": "Juego de utensilios de cocina",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Juego de utensilios de cocina"
+  },
+  {
+    "nombre": "Enfriador de alimentos",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Enfriador de alimentos"
+  },
+  {
+    "nombre": "Contenedor de almacenamiento",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Contenedor de almacenamiento"
+  },
+  {
+    "nombre": "Linterna recargable",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Linterna recargable"
+  },
+  {
+    "nombre": "Panel solar portátil",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Panel solar portátil"
+  },
+  {
+    "nombre": "Cargador de batería solar",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Cargador de batería solar"
+  },
+  {
+    "nombre": "Batería portátil",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Batería portátil"
+  },
+  {
+    "nombre": "Inversor de corriente",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Inversor de corriente"
+  },
+  {
+    "nombre": "Refrigerador de 12V",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Refrigerador de 12V"
+  },
+  {
+    "nombre": "Estufa de gas",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Estufa de gas"
+  },
+  {
+    "nombre": "Parrilla portátil",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Parrilla portátil"
+  },
+  {
+    "nombre": "Ducha solar",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Ducha solar"
+  },
+  {
+    "nombre": "Depósito de agua plegable",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Depósito de agua plegable"
+  },
+  {
+    "nombre": "Sistema de filtración de agua",
+    "categoria": "Equipos de Campamento",
+    "marca": "Thule",
+    "modelo": "Sistema de filtración de agua"
+  }
+]

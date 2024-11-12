@@ -1,0 +1,10 @@
+[
+  {
+    "cotizacion": 1,
+    "trabajos": [1]
+  },
+  {
+    "cotizacion": 2,
+    "trabajos": [1, 2]
+  }
+]

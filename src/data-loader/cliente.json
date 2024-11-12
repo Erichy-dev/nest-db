@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Cliente 1",
+    "apellido": "Apellido 1",
+    "rut": "11111111-1",
+    "email": "cliente1@example.com",
+    "celular": "111111111"
+  },
+  {
+    "nombre": "Cliente 2",
+    "apellido": "Apellido 2",
+    "rut": "22222222-2",
+    "email": "cliente2@example.com",
+    "celular": "222222222"
+  }
+]

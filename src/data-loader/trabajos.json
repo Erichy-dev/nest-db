@@ -1,0 +1,13 @@
+[
+  { "nombre": "Mantenimiento por Kilometraje", "neto": 50000, "iva": 9500, "total": 59500 },
+  { "nombre": "Levante de Suspensión" , "neto": 50000, "iva": 9500, "total": 59500 },
+  { "nombre": "Actualización de Rines" , "neto": 50000, "iva": 9500, "total": 59500 },
+  { "nombre": "Diagnóstico y Reparación Eléctrica", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Frenos", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Escape", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Refrigeración", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Motor", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Dirección", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Transmisión", "neto": 50000, "iva": 9500, "total": 59500  },
+  { "nombre": "Mantenimiento del Sistema de Aire Acondicionado", "neto": 50000, "iva": 9500, "total": 59500  }
+]

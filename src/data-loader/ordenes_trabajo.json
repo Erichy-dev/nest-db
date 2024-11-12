@@ -1,0 +1,18 @@
+[
+  {
+    "neto": 50000, "iva": 9500, "total": 59500,
+    "vehiculo": 1,
+    "usuarios": [1],
+    "cotizaciones": [1],
+    "ordenesTrabajoProductos": [],
+    "detalles": []
+  },
+  {
+    "neto": 100000, "iva": 19000, "total": 119000,
+    "vehiculo": 2,
+    "usuarios": [2],
+    "cotizaciones": [],
+    "ordenesTrabajoProductos": [],
+    "detalles": []
+  }
+]

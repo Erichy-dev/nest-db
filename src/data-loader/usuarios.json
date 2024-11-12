@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Ismael",
+    "apellido": "Leiva",
+    "rut": "17566966-3",
+    "email": "ismaleiva90@gmail.com",
+    "celular": "989981983",
+    "password": "br8dc4st",
+    "ordenesTrabajo": [1],
+    "roles": []
+  },
+  {
+    "nombre": "John",
+    "apellido": "Doe",
+    "rut": "12345678-9",
+    "email": "john.doe@example.com",
+    "celular": "123456789",
+    "password": "password123",
+    "ordenesTrabajo": [2],
+    "roles": []
+  }
+]

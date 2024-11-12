@@ -1,0 +1,14 @@
+[
+  {
+    "descripcion": "Detalle de orden 1",
+    "costo": 100,
+    "ordenTrabajo": 1,
+    "trabajos": [1]
+  },
+  {
+    "descripcion": "Detalle de orden 2",
+    "costo": 200,
+    "ordenTrabajo": 2,
+    "trabajos": [1, 2]
+  }
+]
